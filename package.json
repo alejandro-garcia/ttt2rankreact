@@ -1,0 +1,23 @@
+{
+  "name": "ttt2rankreact",
+  "version": "1.0.0",
+  "description": "react client to graphql api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ttt2rankreact"
+  },
+  "keywords": [
+    "tekken",
+    "react",
+    "graphql",
+    "javascript",
+    "nodejs",
+    "express"
+  ],
+  "author": "Alejandro Garcia",
+  "license": "ISC"
+}
