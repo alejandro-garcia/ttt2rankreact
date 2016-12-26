@@ -6,6 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "react-apollo": "^0.7.2",
+    "apollo-client": "^0.5.25",
+    "graphql-tag": "^1.1.2",
+    "react": "^15.4.1"
+  },
   "repository": {
     "type": "git",
     "url": "ttt2rankreact"
